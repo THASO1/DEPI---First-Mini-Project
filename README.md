@@ -159,7 +159,7 @@ Copy the PNGs into `outputs/` using the filenames below (spaces included).
 
 ### Sales & Profit for Each Region
 
-![Sales & Profit for Each Region](./outputs/Sales%20%26%20Profit%20for%20Each%20Region.png)
+![Sales & Profit for Each Region](/SALES%20&%20PROFIT%20FOR%20EACH%20REGION.png)
 
 ### Shipping Time Distribution by Shipping Mode
 
