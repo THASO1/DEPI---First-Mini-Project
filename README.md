@@ -139,23 +139,23 @@ Copy the PNGs into `outputs/` using the filenames below (spaces included).
 
 ### Average Profit by Sales Performance
 
-![Average Profit by Sales Performance](./outputs/Average%20Profit%20by%20Sales%20Performance.png)
+![Average Profit by Sales Performance](/Average%20Profit%20by%20Sales%20Performance.png)
 
 ### Correlation Matrix of Numeric Features
 
-![Correlation Matrix of Numeric Features](./outputs/Correlation%20Matrix%20of%20Numeric%20Features.png)
+![Correlation Matrix of Numeric Features](/Correlation%20Matrix%20of%20Numeric%20Features.png)
 
 ### Distribution of Sales
 
-![Distribution of Sales](./outputs/Distribution%20of%20Sales.png)
+![Distribution of Sales](/Distribution%20of%20Sales.png)
 
 ### Impact of Discount on Profit Margin
 
-![Impact of Discount on Profit Margin](./outputs/Impact%20of%20Discount%20on%20Profit%20Margin.png)
+![Impact of Discount on Profit Margin](/Impact%20of%20Discount%20on%20Profit%20Margin.png)
 
 ### Sales Trend Over Time
 
-![Sales Trend Over Time](./outputs/Sales%20Trend%20Over%20Time.png)
+![Sales Trend Over Time](/Sales%20Trend%20Over%20Time.png)
 
 ### Sales & Profit for Each Region
 
@@ -163,23 +163,23 @@ Copy the PNGs into `outputs/` using the filenames below (spaces included).
 
 ### Shipping Time Distribution by Shipping Mode
 
-![Shipping Time Distribution by Shipping Mode](./outputs/Shipping%20Time%20Distribution%20by%20Shipping%20Mode.png)
+![Shipping Time Distribution by Shipping Mode](/Shipping%20Time%20Distribution%20by%20Shipping%20Mode.png)
 
 ### Top 10 Products by Sales
 
-![Top 10 Products by Sales](./outputs/Top%2010%20Products%20by%20Sales.png)
+![Top 10 Products by Sales](/Top%2010%20Products%20by%20Sales.png)
 
 ### Total Profit by Category
 
-![Total Profit by Category](./outputs/Total%20Profit%20by%20Category.png)
+![Total Profit by Category](/Total%20Profit%20by%20Category.png)
 
 ### Total Profit by Sub-Category
 
-![Total Profit by Sub-Category](./outputs/Total%20Profit%20by%20Sub-Category.png)
+![Total Profit by Sub-Category](/Total%20Profit%20by%20Sub-Category.png)
 
 ### Total Sales by Category
 
-![Total Sales by Category](./outputs/Total%20Sales%20by%20Category.png)
+![Total Sales by Category](/total%20sales%20by%20Category.png)
 
 ---
 
