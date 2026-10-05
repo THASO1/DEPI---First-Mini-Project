@@ -255,7 +255,7 @@ The cleaned export is written as **`Cleaned_Superstore_Data.csv`**.
 
 ## Author
 
-**[Your Name]**  
+**Ahmed Osama**  
 Portfolio data analysis project — Superstore sales & profitability pipeline.
 
 - LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
